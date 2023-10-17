@@ -1,2 +1,2 @@
-var name = "Adi Irawan";
-console.log("Halo perkenalkan nama saya :", name);
+var nama = "Adi Irawan";
+console.log("Halo nama saya : ", nama);
