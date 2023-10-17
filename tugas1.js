@@ -1,2 +1,2 @@
-var nama = "Adi Irawan";
+const nama = "Adi Irawan";
 console.log("Halo nama saya : ", nama);
